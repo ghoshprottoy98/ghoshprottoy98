@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**ghoshprottoy98/ghoshprottoy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Prottoy Ghosh ! 👋
 
-Here are some ideas to get you started:
+I'm a passionate web developer with expertise in crafting elegant and efficient web solutions. My journey into the world of programming began with HTML5, and since then, I've honed my skills in various frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies & Tools
+- HTML5
+- Bootstrap
+- JavaScript
+- Angular
+- Vue.js
+- React.js
+- Python
+- Java
+
+## 🚀 What I Do
+- Develop responsive and user-friendly web applications
+- Create dynamic and interactive frontend experiences
+- Collaborate with teams to deliver high-quality software solutions
+
+## 🌱 Always Learning
+I believe in the power of continuous learning and stay updated with the latest advancements in web development. Whether it's mastering a new framework or exploring emerging technologies, I'm always eager to expand my skill set.
+
+## 📫 Let's Connect
+Feel free to reach out if you'd like to collaborate on a project, discuss technology, or simply say hello! You can find me on https://www.linkedin.com/in/prottoy-ghosh-11497325b/ or email me at ghoshprottoy98@gmail.com.
