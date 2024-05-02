@@ -22,4 +22,4 @@ I'm a passionate web developer with expertise in crafting elegant and efficient 
 I believe in the power of continuous learning and stay updated with the latest advancements in web development. Whether it's mastering a new framework or exploring emerging technologies, I'm always eager to expand my skill set.
 
 ## 📫 Let's Connect
-Feel free to reach out if you'd like to collaborate on a project, discuss technology, or simply say hello! You can find me on https://www.linkedin.com/in/prottoy-ghosh-11497325b/ or email me at ghoshprottoy98@gmail.com.
+Feel free to reach out if you'd like to collaborate on a project, discuss technology, or simply say hello! You can find me on linkedin or email me at ghoshprottoy98@gmail.com.
