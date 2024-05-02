@@ -7,6 +7,7 @@ I'm a passionate web developer with expertise in crafting elegant and efficient 
 - HTML5
 - Bootstrap
 - JavaScript
+- TypeScript
 - Angular
 - Vue.js
 - React.js
