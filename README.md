@@ -11,6 +11,7 @@ I'm a passionate web developer with expertise in crafting elegant and efficient 
 - Angular
 - Vue.js
 - React.js
+- Git
 - Python
 - Java
 
