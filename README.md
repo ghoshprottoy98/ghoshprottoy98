@@ -5,6 +5,7 @@ I'm a passionate web developer with expertise in crafting elegant and efficient 
 
 ## 💻 Technologies & Tools
 - HTML5
+- CSS
 - Bootstrap
 - JavaScript
 - TypeScript
